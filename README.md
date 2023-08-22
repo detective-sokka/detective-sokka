@@ -26,7 +26,7 @@ Welcome to my GitHub profile :octocat:
 
 <br/>
 
-## My github profile details
+## Profile details
 [![Sai Dutt's GitHub stats](https://github-readme-stats.vercel.app/api?username=detective-sokka&theme=codeSTACKr)](https://github.com/detective-sokka/github-readme-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=detective-sokka&layout=compact)
@@ -34,11 +34,12 @@ Welcome to my GitHub profile :octocat:
 ### Projects
 
 [![Travelgram](https://github-readme-stats.vercel.app/api/pin/?username=detective-sokka&repo=Travelgram)](https://github.com/detective-sokka/Travelgram.git)
-
 [![Crypto wallet](https://github-readme-stats.vercel.app/api/pin/?username=detective-sokka&repo=CryptoWallet)](https://github.com/detective-sokka/CryptoWallet.git)
 
 ### My other profiles
 
-- :notebook: Kaggle - https://www.kaggle.com/strawhatsai
-- :computer: Leetcode - https://leetcode.com/strawhatsai/
-- :briefcase: LinkedIn - https://www.linkedin.com/in/dutt-sai/
+<div>
+<a href="https://www.kaggle.com/strawhatsai"><img src="./assets/tech-stack/kaggle.png" width=50/></a>
+<a href="https://leetcode.com/strawhatsai/"><img src="./assets/tech-stack/leetcode.svg" width=50/></a>
+<a href="https://www.linkedin.com/in/dutt-sai/"><img src="./assets/tech-stack/linkedin.svg" width=50/></a>
+</div>
