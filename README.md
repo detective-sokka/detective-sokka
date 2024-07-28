@@ -27,8 +27,6 @@ Welcome to my GitHub profile :octocat:
 <br/>
 
 ## Profile details
-[![Sai Dutt's GitHub stats](https://github-readme-stats.vercel.app/api?username=detective-sokka&theme=codeSTACKr)](https://github.com/detective-sokka/github-readme-stats)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=detective-sokka&layout=compact)
 
 ### Projects
