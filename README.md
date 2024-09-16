@@ -32,7 +32,6 @@ Welcome to my GitHub profile :octocat:
 ### Projects
 
 [![Travelgram](https://github-readme-stats.vercel.app/api/pin/?username=detective-sokka&repo=Travelgram)](https://github.com/detective-sokka/Travelgram.git)
-[![Crypto wallet](https://github-readme-stats.vercel.app/api/pin/?username=detective-sokka&repo=CryptoWallet)](https://github.com/detective-sokka/CryptoWallet.git)
 
 ### My other profiles
 
