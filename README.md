@@ -31,6 +31,7 @@ Welcome to my GitHub profile :octocat:
 
 ### Projects
 
+[![Boston Code and Coffee](https://github-readme-stats.vercel.app/api/pin/?username=detective-sokka&repo=boston-code-and-coffee)](https://github.com/detective-sokka/boston-code-and-coffee.git)
 [![Travelgram](https://github-readme-stats.vercel.app/api/pin/?username=detective-sokka&repo=Travelgram)](https://github.com/detective-sokka/Travelgram.git)
 
 ### My other profiles
