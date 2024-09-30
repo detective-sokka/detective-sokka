@@ -1,6 +1,4 @@
-# Hello there 👋
-
-Welcome to my GitHub profile :octocat:
+# Hello there 👋. Welcome to my GitHub profile :octocat:
 
 ## Tech stack
 
