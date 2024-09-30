@@ -48,7 +48,5 @@
 ### My other profiles
 
 <div>
-<a href="https://www.kaggle.com/strawhatsai"><img src="./assets/tech-stack/kaggle.png" width=50/></a>
-<a href="https://leetcode.com/strawhatsai/"><img src="./assets/tech-stack/leetcode.svg" width=50/></a>
 <a href="https://www.linkedin.com/in/dutt-sai/"><img src="./assets/tech-stack/linkedin.svg" width=50/></a>
 </div>
