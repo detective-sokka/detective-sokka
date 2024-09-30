@@ -41,7 +41,11 @@ Welcome to my GitHub profile :octocat:
 
 ## Featured project(s)
 
+### Cloud-hosted NodeJS application using Pulumi IaC
 
+[![NodeJS application](https://github-readme-stats.vercel.app/api/pin/?username=detective-sokka&repo=webapp)](https://github.com/detective-sokka/webapp.git)
+[![Pulumi IaC](https://github-readme-stats.vercel.app/api/pin/?username=detective-sokka&repo=iac-pulumi)](https://github.com/detective-sokka/iac-pulumi.git)
+[![Serverless function](https://github-readme-stats.vercel.app/api/pin/?username=detective-sokka&repo=serverless)](https://github.com/detective-sokka/serverless.git)
 
 ### My other profiles
 
