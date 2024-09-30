@@ -13,7 +13,7 @@ Welcome to my GitHub profile :octocat:
 <br />
 
 #### Frameworks and Libraries
-<img src="./assets/tech-stack/react.svg" align="left" alt="git" height='42px'/> 
+<img src="./assets/tech-stack/nodejs-logo.png" align="left" alt="git" height='42px'/> 
 <img src="./assets/tech-stack/nodejs.svg" align="left" alt="git" height='42px'/> 
 
 <br />
