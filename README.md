@@ -39,9 +39,6 @@ Welcome to my GitHub profile :octocat:
 </tr>
 </table>
 
-## Profile details
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=detective-sokka&layout=compact)
-
 ### Projects
 
 [![Boston Code and Coffee](https://github-readme-stats.vercel.app/api/pin/?username=detective-sokka&repo=boston-code-and-coffee)](https://github.com/detective-sokka/boston-code-and-coffee.git)
