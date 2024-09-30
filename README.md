@@ -31,7 +31,7 @@ Welcome to my GitHub profile :octocat:
     </td>
 </tr>
 <tr>
-    <td>Tools</td>
+    <td>Misc. skills</td>
     <td>
         <img src="./assets/tech-stack/git-scm.svg" align="left" alt="git" height='42px'/> 
         <img src="./assets/tech-stack/uml-logo.svg" align="left" alt="git" height='42px'/> 
