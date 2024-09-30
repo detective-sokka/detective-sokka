@@ -4,9 +4,25 @@ Welcome to my GitHub profile :octocat:
 
 ## Tech stack
 
-#### Languages
-<img src="./assets/tech-stack/python.svg" align="left" alt="git" height='42px'/> 
-<img src="./assets/tech-stack/c++.svg" align="left" alt="git" height='42px'/> 
+<table>
+<tr>
+    <th>Category</th>
+    <th>Skills</th>
+</tr>
+<tr>
+    <td>Programming languages</td>
+    <td></td>
+</tr>
+<tr>
+    <td>Cloud technologies</td>
+    <td></td>
+</tr>
+<tr>
+    <td>Web technologies</td>
+    <td></td>
+</tr>
+</table>
+
 <img src="./assets/tech-stack/javascript.svg" align="left" alt="git" height='42px'/>  
 
 <br />
