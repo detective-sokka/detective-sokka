@@ -19,7 +19,10 @@ Welcome to my GitHub profile :octocat:
 </tr>
 <tr>
     <td>Cloud technologies</td>
-    <td></td>
+    <td>
+        <img src="./assets/tech-stack/pulumi-logo.png" align="left" alt="git" height='42px'/>
+        <img src="./assets/tech-stack/aws-logo.png" align="left" alt="git" height='42px'/>
+    </td>
 </tr>
 <tr>
     <td>Web technologies</td>
