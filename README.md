@@ -11,7 +11,11 @@ Welcome to my GitHub profile :octocat:
 </tr>
 <tr>
     <td>Programming languages</td>
-    <td></td>
+    <td>
+        <img src="./assets/tech-stack/c++.svg" align="left" alt="git" height='42px'/>
+        <img src="./assets/tech-stack/python.svg" align="left" alt="git" height='42px'/>  
+        <img src="./assets/tech-stack/javascript.svg" align="left" alt="git" height='42px'/>  
+    </td>
 </tr>
 <tr>
     <td>Cloud technologies</td>
@@ -19,25 +23,17 @@ Welcome to my GitHub profile :octocat:
 </tr>
 <tr>
     <td>Web technologies</td>
-    <td></td>
+    <td>
+        <img src="./assets/tech-stack/nodejs-logo.png" align="left" alt="git" height='42px'/> 
+    </td>
+</tr>
+<tr>
+    <td>Tools</td>
+    <td>
+        <img src="./assets/tech-stack/git-scm.svg" align="left" alt="git" height='42px'/> 
+    </td>
 </tr>
 </table>
-
-<img src="./assets/tech-stack/javascript.svg" align="left" alt="git" height='42px'/>  
-
-<br />
-<br />
-
-#### Frameworks and Libraries
-<img src="./assets/tech-stack/nodejs-logo.png" align="left" alt="git" height='42px'/> 
-
-<br />
-<br />
-
-#### Tools
-<img src="./assets/tech-stack/git-scm.svg" align="left" alt="git" height='42px'/> 
-
-<br/>
 
 ## Profile details
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=detective-sokka&layout=compact)
