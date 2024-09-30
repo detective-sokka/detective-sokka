@@ -7,7 +7,6 @@ Welcome to my GitHub profile :octocat:
 #### Languages
 <img src="./assets/tech-stack/python.svg" align="left" alt="git" height='42px'/> 
 <img src="./assets/tech-stack/c++.svg" align="left" alt="git" height='42px'/> 
-<img src="./assets/tech-stack/java.svg" align="left" alt="git" height='42px'/> 
 <img src="./assets/tech-stack/javascript.svg" align="left" alt="git" height='42px'/>  
 
 <br />
@@ -16,7 +15,6 @@ Welcome to my GitHub profile :octocat:
 #### Frameworks and Libraries
 <img src="./assets/tech-stack/react.svg" align="left" alt="git" height='42px'/> 
 <img src="./assets/tech-stack/nodejs.svg" align="left" alt="git" height='42px'/> 
-<img src="./assets/tech-stack/bootstrap.svg" align="left" alt="git" height='42px'/> 
 
 <br />
 <br />
