@@ -32,6 +32,7 @@
     <td>Misc. skills</td>
     <td>
         <img src="./assets/tech-stack/uml-logo.svg" align="left" alt="git" height='42px'/> 
+        <img src="./assets/tech-stack/bash.png" align="left" alt="git" height='42px'/> 
     </td>
 </tr>
 </table>
