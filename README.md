@@ -26,6 +26,7 @@
     <td>Frameworks</td>
     <td>
         <img src="./assets/tech-stack/nodejs-logo.png" align="left" alt="git" height='42px'/> 
+        <img src="./assets/tech-stack/react-native-logo.svg" align="left" alt="git" height='42px'/> 
     </td>
 </tr>
 <tr>
