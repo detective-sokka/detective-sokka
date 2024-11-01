@@ -23,7 +23,7 @@
     </td>
 </tr>
 <tr>
-    <td>Web technologies</td>
+    <td>Frameworks</td>
     <td>
         <img src="./assets/tech-stack/nodejs-logo.png" align="left" alt="git" height='42px'/> 
     </td>
