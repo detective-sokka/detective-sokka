@@ -40,6 +40,9 @@
 
 ## Featured project(s)
 
+### Cross-platform Health-risk tracking application
+[![React Native application](https://github-readme-stats.vercel.app/api/pin/?username=detective-sokka&repo=HealthMonitoringApp)](https://github.com/detective-sokka/HealthMonitoringApp)
+
 ### Cloud-hosted NodeJS application using Pulumi IaC
 
 [![NodeJS application](https://github-readme-stats.vercel.app/api/pin/?username=detective-sokka&repo=webapp)](https://github.com/detective-sokka/webapp.git)
