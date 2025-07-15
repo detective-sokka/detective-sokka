@@ -52,5 +52,5 @@
 ### My other profiles
 
 <div>
-<a href="https://www.linkedin.com/in/dutt-sai/"><img src="./assets/tech-stack/linkedin.svg" width=50/></a>
+<a href="https://www.linkedin.com/in/saiduttsde/"><img src="./assets/tech-stack/linkedin.svg" width=50/></a>
 </div>
